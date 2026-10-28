@@ -1,0 +1,9 @@
+{
+  "name": "ArogyaSetu AI",
+  "short_name": "ArogyaSetu",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111633",
+  "theme_color": "#111633",
+  "description": "Accessible healthcare information and resources"
+}
